@@ -1,0 +1,51 @@
+*{
+    margin: 0 auto;
+}
+body{
+
+}
+header{
+    background-color: #BE3144;
+    margin-left: auto;
+    height: 80px;
+}
+.menus{
+    margin-left: auto;
+}
+li{
+    list-style: none;
+}
+.item{
+    display: flex;
+    font-size: 1rem;
+    color: #fff;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.hero{
+    height: 400px;
+    background-color: rgb(16, 15, 15);
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 200px;
+}
+em{
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center !important;
+    margin: 0 auto;
+}
+.projects{
+    background-color: #45567D;
+    height: 600px;
+}
+.work{
+    height: 500px;
+    background-color: rgb(30, 28, 28);
+    text-align: center;
+}
